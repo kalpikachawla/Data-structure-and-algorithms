@@ -9,5 +9,5 @@ int main(){
     }
     else{
         cout<<"The person is not eligible to get a license";
-    }
+    }// if else
 }
